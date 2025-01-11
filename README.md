@@ -1,6 +1,4 @@
-#purestories for whatsaap
-
-# Python Script Documentation
+# purestories for whatsaap
 
 This script processes an MOV video file using FFmpeg to convert it into an MP4 format with specific metadata and compression settings. It mimics the compression output of PureStatus for better compatibility and smaller file sizes while preserving essential video quality.
 
