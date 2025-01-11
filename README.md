@@ -1,2 +1,2 @@
 # purestories-wa
-Script ini digunakan untuk mengonversi file video dalam format MOV ke format MP4 menggunakan library FFmpeg. Script ini memastikan file output dihasilkan dengan parameter yang menyerupai hasil kompresi aplikasi PureStatus.
+This script is used to convert video files in MOV format to MP4 format using the FFmpeg library. This script ensures that the output file is generated with parameters that resemble the compression results of the PureStatus application.
