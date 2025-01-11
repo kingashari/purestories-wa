@@ -1,0 +1,1 @@
+nano the file before executing, and replace the bottom part with the location of your video.mov file.
